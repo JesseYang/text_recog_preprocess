@@ -1,3 +1,5 @@
 *.png
 *.MOV
 .ipynb_checkpoints
+/data
+/texts
